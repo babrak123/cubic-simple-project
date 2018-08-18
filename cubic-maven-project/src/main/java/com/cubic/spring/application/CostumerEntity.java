@@ -7,5 +7,8 @@ public class CostumerEntity {
 	String lastName;
 	String age;
 	
+	String email;
+	int ssn;
+	
 	
 }
